@@ -1,0 +1,5 @@
+com/cezarmorshid/inventoryservice/repository/InventoryRepository.class
+com/cezarmorshid/inventoryservice/model/Inventory.class
+com/cezarmorshid/inventoryservice/InventoryServiceApplication.class
+com/cezarmorshid/inventoryservice/service/InventoryService.class
+com/cezarmorshid/inventoryservice/controller/InventoryController.class

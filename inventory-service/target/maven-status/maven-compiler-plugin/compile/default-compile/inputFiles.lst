@@ -1,0 +1,5 @@
+/home/programitech/Developer/microservices-new/inventory-service/src/main/java/com/cezarmorshid/inventoryservice/controller/InventoryController.java
+/home/programitech/Developer/microservices-new/inventory-service/src/main/java/com/cezarmorshid/inventoryservice/model/Inventory.java
+/home/programitech/Developer/microservices-new/inventory-service/src/main/java/com/cezarmorshid/inventoryservice/InventoryServiceApplication.java
+/home/programitech/Developer/microservices-new/inventory-service/src/main/java/com/cezarmorshid/inventoryservice/repository/InventoryRepository.java
+/home/programitech/Developer/microservices-new/inventory-service/src/main/java/com/cezarmorshid/inventoryservice/service/InventoryService.java

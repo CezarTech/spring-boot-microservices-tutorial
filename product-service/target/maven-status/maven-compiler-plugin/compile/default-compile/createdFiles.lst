@@ -1,0 +1,10 @@
+com/cezarmorshid/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/cezarmorshid/productservice/model/Product.class
+com/cezarmorshid/productservice/service/ProductService.class
+com/cezarmorshid/productservice/controller/ProductController.class
+com/cezarmorshid/productservice/dto/ProductRequest.class
+com/cezarmorshid/productservice/ProductServiceApplication.class
+com/cezarmorshid/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/cezarmorshid/productservice/dto/ProductResponse.class
+com/cezarmorshid/productservice/repository/ProductRepository.class
+com/cezarmorshid/productservice/model/Product$ProductBuilder.class

@@ -1,0 +1,7 @@
+/home/programitech/Developer/microservices-new/product-service/src/main/java/com/cezarmorshid/productservice/model/Product.java
+/home/programitech/Developer/microservices-new/product-service/src/main/java/com/cezarmorshid/productservice/ProductServiceApplication.java
+/home/programitech/Developer/microservices-new/product-service/src/main/java/com/cezarmorshid/productservice/dto/ProductRequest.java
+/home/programitech/Developer/microservices-new/product-service/src/main/java/com/cezarmorshid/productservice/dto/ProductResponse.java
+/home/programitech/Developer/microservices-new/product-service/src/main/java/com/cezarmorshid/productservice/repository/ProductRepository.java
+/home/programitech/Developer/microservices-new/product-service/src/main/java/com/cezarmorshid/productservice/service/ProductService.java
+/home/programitech/Developer/microservices-new/product-service/src/main/java/com/cezarmorshid/productservice/controller/ProductController.java

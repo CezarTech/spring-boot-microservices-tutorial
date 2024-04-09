@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo
+    container_name: mongodb_container_product_service
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: product_service
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - mongo_net
+
+volumes:
+  mongodb_data:
+    external: true
+
+networks:
+  mongo_net:
